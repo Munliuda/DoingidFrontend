@@ -1,6 +1,6 @@
 {
   "name": "jobick",
-  "homepage" : "https://jobick.dexignlab.com/frontend/react/",
+  "homepage": "https://jobick.dexignlab.com/frontend/react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
